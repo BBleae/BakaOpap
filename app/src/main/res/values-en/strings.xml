@@ -68,8 +68,8 @@
     <string name="str_computer_transfer">Computer transfer</string>
     <string name="str_web_transfer">Web transfer</string>
 
-    <!--<string name="str_my_floating_action_button_behavior">io.github.mayubao.kuaichuan.ui.view.MyFloatingButtonBehavior</string>-->
-    <string name="str_my_floating_action_button_behavior">io.github.mayubao.kuaichuan.ui.view.FooterBehaviorDependAppBar</string>
+    <!--<string name="str_my_floating_action_button_behavior">studio.baka.opap.ui.view.MyFloatingButtonBehavior</string>-->
+    <string name="str_my_floating_action_button_behavior">studio.baka.opap.ui.view.FooterBehaviorDependAppBar</string>
 
 
     <string-array name="array_res">

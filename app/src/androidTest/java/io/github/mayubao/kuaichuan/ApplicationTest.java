@@ -1,9 +1,9 @@
-package io.github.mayubao.kuaichuan;
+package studio.baka.opap;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
-import io.github.mayubao.kuaichuan.core.utils.FileUtils;
+import studio.baka.opap.core.utils.FileUtils;
 
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>

@@ -1,4 +1,4 @@
-package io.github.mayubao.kuaichuan;
+package studio.baka.opap;
 
 import org.junit.Test;
 

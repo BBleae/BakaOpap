@@ -63,8 +63,8 @@
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/selector_home_text_view_big</item>
     </style>
-    
-    
+
+
     <style name="style_home_bottom_image_view">
         <item name="android:layout_width">@dimen/dp_32</item>
         <item name="android:layout_height">@dimen/dp_32</item>
